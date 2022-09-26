@@ -46,8 +46,6 @@ export default function Projects() {
                 <p className="leading-relaxed text-xl">{project.description}</p>
               </div>
             </div>
-
-            //</a>
           ))}
         </div>
       </div>
