@@ -38,7 +38,7 @@ export default function About() {
         <div className="lg:max-w-lg lg:w-full md:w-60% w-5/6">
           <img
             className="object-cover object-center rounded"
-            alt="hero"
+            alt="myunghoon"
             src="./IMG_2002 2.JPG"
           />
         </div>

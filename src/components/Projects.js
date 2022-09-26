@@ -32,7 +32,7 @@ export default function Projects() {
           {projects.map((project) => (
             <div className="flex relative sm:w-100% p-36">
               <img
-                alt="gallery"
+                alt="image"
                 className="absolute inset-0 w-full h-full object-cover object-center"
                 src={project.image}
               />
