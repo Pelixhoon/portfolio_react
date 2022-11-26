@@ -25,7 +25,7 @@ export default function Skills() {
             Skills &amp; Tools
           </h1>
           <p className=" text-xl leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            부족하지만, 누구보다 열심히 공부하고 있는 기술 스택들입니다
+            부족하지만, 열심히 공부하고 있는 기술 스택들입니다
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
